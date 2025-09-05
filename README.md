@@ -22,4 +22,4 @@ The slash in `/termux` is required, if you do just `termux` then git also downlo
 
 **Note**: This method doesn't work for individual files.
 
-License see [LICENSE]
+License see [LICENSE](https://github.com/ddCeka/termux-colour/raw/refs/heads/master/LICENSE)
